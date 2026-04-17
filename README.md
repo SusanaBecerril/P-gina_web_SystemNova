@@ -1,2 +1,2 @@
 Esta es una página web desplegada en Render:
-https://novasystem-o5cs.onrender.com/
+[https://susanabecerril.github.io/P-gina_web_SystemNova/]
